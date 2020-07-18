@@ -61,6 +61,7 @@ Optional: set the image dimension with `--image-dimension` or `-d` (default is 5
 - the repartition of classes
 - the 2D slices with the tumor mask
 - the tumors
+- Cancer models 
 
 ### References
 
